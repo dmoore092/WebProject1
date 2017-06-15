@@ -1,0 +1,65 @@
+body{
+    font-family: "Trebuchet MS, Tahoma, Verdana";
+    background-color: #558C89;
+ }
+header{
+    background-color: #D9853B;
+    width:100%;
+    height:15.5%; 
+    position:absolute;
+    top:0;
+    left:0; 
+}
+h1{
+
+    /* background-color: #D3D3D3; Gray */ 
+    padding-left: 1em;
+    padding-right: 1em;
+    /* padding-top: 1em; */
+    text-align: center;
+     
+}
+hr{
+    color: black;
+}
+h2{
+    padding-top: 9%;
+    text-align: center;
+}
+h3{
+    padding-left: 0;
+    margin-left:  0;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70em;
+    display: inline-block;
+    font-weight: bold;
+    
+}
+#navigation{
+    padding-top: 150px;
+    font-weight: bold;
+    
+}
+
+ui, li{
+    display: inline;
+    display: inline-block;
+    padding:10px 1%;
+    float: right;
+}
+section{
+    padding-top: 10px;
+}
+figure{
+    /*padding-top: 10px;*/
+    float: left;
+    height: 150px;
+    width: 220px;
+    font-family: Veranda;
+}
+footer{
+    font-weight: bold;
+}
